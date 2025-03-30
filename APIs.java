@@ -148,3 +148,4 @@ class BookingController {
         return ResponseEntity.noContent().build();
     }
 }
+
